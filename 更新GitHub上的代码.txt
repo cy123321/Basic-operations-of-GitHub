@@ -2,3 +2,5 @@ git add *
 git commit -m "更新说明"
 (git pull)
 git push origin master
+
+要注意编码方式，不然汉字可能会变成乱码
